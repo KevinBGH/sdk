@@ -1,6 +1,6 @@
 {
 "companyName": "DefaultCompany",
-"productName": "LOLSDK",
+"productName": "LOLSDK2",
 "productVersion": "0.1",
 "dataUrl": "sdk.data.unityweb",
 "wasmCodeUrl": "sdk.wasm.code.unityweb",
